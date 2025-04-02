@@ -1,0 +1,1 @@
+A 'Love Calculator' project was created using Python's Tkinter library for the UI and the random library for generating results. The project provides a fun way to calculate compatibility between two names.
